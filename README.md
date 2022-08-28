@@ -1,1 +1,13 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/xxqs62lf1u7060gq?svg=true)](https://ci.appveyor.com/project/Shredder988/api-ci-5vqon)
+# aqa-код
+Код с лекций Автоматизация тестирования
+
+1. [x] [Основы автоматизации](basics/)
+1. [x] [Тестирование API, CI](api-ci/)
+1. [x] [Тестирование веб-интерфейсов](web/)
+1. [x] [Селенид] (selenide/)
+1. [x] [Шаблоны](шаблоны/)
+1. [x] [BDD](bdd/)
+1. [X] [Docker](докер/)
+1. [x] [SQL](sql/)
+1. [x] [Отчетность] (reporting/)
+1. [ ] [Резюме] (резюме/)
